@@ -1,0 +1,1 @@
+web: gunicorn ramakrishnaportfolio.wsgi --log-file - 
